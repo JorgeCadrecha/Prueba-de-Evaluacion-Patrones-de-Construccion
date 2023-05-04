@@ -1,7 +1,7 @@
 # Prueba-de-Evaluacion-Patrones-de-Construccion
 
 ## Nota 
-Mi repositorio es: 
+Mi repositorio es:  https://github.com/JorgeCadrecha/Prueba-de-Evaluacion-Patrones-de-Construccion.git
 
 ### Ejercicio 1
 
